@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.search-header {
+    font-size: 20px;
+    color: blueviolet;
+    font-weight: bold;
+}
